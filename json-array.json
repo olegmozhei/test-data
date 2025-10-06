@@ -1,0 +1,14 @@
+[
+  {
+    "internal_id":"value",
+    "property1":"hello"
+  },
+  {
+    "internal_id":"value2",
+    "property1": "world"
+  },
+  {
+    "internal_id":"value3",
+    "property1": "fiend"
+  }
+]
