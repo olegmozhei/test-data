@@ -2,15 +2,18 @@
   "data": [
   {
     "internal_id":"id1",
-    "property1":"value5"
+    "property1":"value5",
+    "property2":"property_2_value1"
   },
   {
     "internal_id":"id2",
-    "property1": "value2"
+    "property1": "value2",
+    "property2":"property_2_value2"
   },
   {
     "internal_id":"id3",
-    "property1": "value3"
+    "property1": "value3",
+    "property2":"property_2_value3"
   }
 ]
 }
