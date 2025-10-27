@@ -1,16 +1,16 @@
 {
   "data": [
   {
-    "internal_id":"value",
-    "property1":"hello"
+    "internal_id":"id1",
+    "property1":"value1"
   },
   {
-    "internal_id":"value2",
-    "property1": "world"
+    "internal_id":"id2",
+    "property1": "value2"
   },
   {
-    "internal_id":"value3",
-    "property1": "fiend"
+    "internal_id":"id3",
+    "property1": "value3"
   }
 ]
 }
